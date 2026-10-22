@@ -13,4 +13,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## String
 
-- [0058-length-of-last-word](./0058-length-of-last-wor
+- [0058-length-of-last-word](./0058-length-of-last-word/)
+- [0125-valid-palindrome](./0125-valid-palindrome/)
