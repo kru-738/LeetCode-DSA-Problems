@@ -5,7 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 
 - [0011-container-with-most-water](./0011-container-with-most-water/)
+- [0053-maximum-subarray](./0053-maximum-subarray/)
+- [0121-best-time-to-buy-and-sell-stock](./0121-best-time-to-buy-and-sell-stock/)
+- [0217-contains-duplicate](./0217-contains-duplicate/)
+- [0283-move-zeroes](./0283-move-zeroes/)
+- [1480-running-sum-of-1d-array](./1480-running-sum-of-1d-array/)
 
 ## String
 
-- [0058-length-of-last-word](./0058-length-of-last-word/)
+- [0058-length-of-last-word](./0058-length-of-last-wor
