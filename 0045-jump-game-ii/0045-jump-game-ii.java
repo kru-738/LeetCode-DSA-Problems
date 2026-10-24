@@ -9,7 +9,11 @@ class Solution {
 
         for(int i=0;i<nums.length-1;i++){
             
-            furthest = Math.max(furthest, i+nums[i]);
+            int reach = i+nums[i];
+
+            if(reach>furthest){
+                furthest = reach;
+            }
 
             if(i==currentEnd){
                 jumps++;
@@ -45,7 +49,7 @@ class Solution {
         Solution s = new Solution();
         int result = s.jump(nums);
 
-        System.out.println(nums);
+        System.out.println(result);
         sc.close();
     }
 }
