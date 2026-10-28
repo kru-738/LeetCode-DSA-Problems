@@ -15,3 +15,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 - [0058-length-of-last-word](./0058-length-of-last-word/)
 - [0125-valid-palindrome](./0125-valid-palindrome/)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/kru-738/LeetCode-DSA-Problems/tree/master/0176-second-highest-salary) |
+<!---LeetCode Topics End-->
